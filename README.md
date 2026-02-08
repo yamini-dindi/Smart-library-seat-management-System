@@ -11,6 +11,10 @@ This project presents a Smart Library Seat Management System designed to prevent
 - Automatically releases unattended reserved seats after **20 minutes**
 - Displays **total vs available seats** on an **LCD screen**
 - Real-time monitoring using **ESP32**
+## Wokwi Simulation
+
+You can view and run the project simulation here:  
+https://wokwi.com/projects/450140854688312321
 
 ## Components Used
 - ESP32 microcontroller  
