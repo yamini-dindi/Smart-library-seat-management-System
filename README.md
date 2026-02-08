@@ -41,3 +41,8 @@ If the user does not return within the time limit, the system automatically mark
 ---
 
 **Developed as an Embedded Systems project using ESP32.**
+
+## Project Preview
+
+![Simulation](project.png)
+
